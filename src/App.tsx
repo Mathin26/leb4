@@ -17,16 +17,16 @@ const properties = [
       "Vadapalani Metro Station - 1.5 km",
       "PSBB School - 0.8 km"
     ],
-    video: "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=164&oauth2_token_id=57447761",
+    video: "abc.mp4",
     images: [
-      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=80"
+      "home1i.jpg",
+      "home2i.jpg",
+      "home3i.jpg"
     ]
   },
   {
     id: 2,
-    title: "Modern Downtown Penthouse",
+    title: "House",
     location: "Anna nagar",
     price: "2.9 Crores",
     beds: 3,
@@ -38,11 +38,11 @@ const properties = [
       "Anna Nagar Metro - 1 km",
       "DAV School - 0.6 km"
     ],
-    video: "https://player.vimeo.com/external/449759244.sd.mp4?s=d5f3da46ddc17aa69a7de84f1e420610ecd2a5b8&profile_id=164&oauth2_token_id=57447761",
+    video: "abcd.mp4",
     images: [
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=1600&q=80"
+      "home6i.jpg",
+      "home5i.jpg",
+      "home4i.jpg"
     ]
   },
   {
@@ -59,7 +59,7 @@ const properties = [
       "Anna Nagar Metro - 1 km",
       "DAV School - 0.6 km"
     ],
-    video: "home5.mp4",
+    video: "abc.mp4",
     images: [
       "home8i.jpg",
       "home10i.jpg",
@@ -80,7 +80,7 @@ const properties = [
       "Anna Nagar Metro - 1 km",
       "DAV School - 0.6 km"
     ],
-    video: "home6.mp4",
+    video: "abcd.mp4",
     images: [
       "home9i.jpg",
       "home11i.jpg",
