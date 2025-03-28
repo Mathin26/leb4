@@ -44,6 +44,48 @@ const properties = [
       "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
       "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=1600&q=80"
     ]
+  },
+  {
+    id: 3,
+    title: "Villa",
+    location: "Ashok nagar",
+    price: "2.59 Crores",
+    beds: 3,
+    baths: 3.5,
+    sqft: "3,100",
+    landmarks: [
+      "Anna Nagar Tower Park - 0.5 km",
+      "VR Chennai Mall - 1.8 km",
+      "Anna Nagar Metro - 1 km",
+      "DAV School - 0.6 km"
+    ],
+    video: "home5.mp4",
+    images: [
+      "home8i.jpg",
+      "home10i.jpg",
+      "home7i.jpg"
+    ]
+  },
+  {
+    id: 4,
+    title: "House",
+    location: "Ecr",
+    price: "3.9 Crores",
+    beds: 3,
+    baths: 3.5,
+    sqft: "3,100",
+    landmarks: [
+      "Anna Nagar Tower Park - 0.5 km",
+      "VR Chennai Mall - 1.8 km",
+      "Anna Nagar Metro - 1 km",
+      "DAV School - 0.6 km"
+    ],
+    video: "home6.mp4",
+    images: [
+      "home9i.jpg",
+      "home11i.jpg",
+      "home12i.jpg"
+    ]
   }
 ];
 
