@@ -17,11 +17,11 @@ const properties = [
       "Vadapalani Metro Station - 1.5 km",
       "PSBB School - 0.8 km"
     ],
-    video: "abc.mp4",
+    video: "/abc.mp4",
     images: [
-      "//home//Mathin26//leb4//home1i.jpg",
-      "home2i.jpg",
-      "home3i.jpg"
+      "/home2i.jpg",
+      "/home2i.jpg",
+      "/home3i.jpg"
     ]
   },
   {
@@ -38,11 +38,11 @@ const properties = [
       "Anna Nagar Metro - 1 km",
       "DAV School - 0.6 km"
     ],
-    video: "abcd.mp4",
+    video: "/abcd.mp4",
     images: [
-      "home6i.jpg",
-      "home5i.jpg",
-      "home4i.jpg"
+      "/home6i.jpg",
+      "/home5i.jpg",
+      "/home4i.jpg"
     ]
   },
   {
@@ -59,11 +59,11 @@ const properties = [
       "Anna Nagar Metro - 1 km",
       "DAV School - 0.6 km"
     ],
-    video: "abc.mp4",
+    video: "/abc.mp4",
     images: [
-      "home8i.jpg",
-      "home10i.jpg",
-      "home7i.jpg"
+      "/home8i.jpg",
+      "/home10i.jpg",
+      "/home7i.jpg"
     ]
   },
   {
@@ -80,11 +80,11 @@ const properties = [
       "Anna Nagar Metro - 1 km",
       "DAV School - 0.6 km"
     ],
-    video: "abcd.mp4",
+    video: "/abcd.mp4",
     images: [
-      "home9i.jpg",
-      "home11i.jpg",
-      "home12i.jpg"
+      "/home9i.jpg",
+      "/home11i.jpg",
+      "/home12i.jpg"
     ]
   }
 ];
