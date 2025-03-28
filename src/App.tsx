@@ -19,7 +19,7 @@ const properties = [
     ],
     video: "abc.mp4",
     images: [
-      "home1i.jpg",
+      "//home//Mathin26//leb4//home1i.jpg",
       "home2i.jpg",
       "home3i.jpg"
     ]
